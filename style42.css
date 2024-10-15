@@ -1,0 +1,35 @@
+input[type="text"]{
+    background-color:yellow;
+    color: black;
+    font-size: 1.5rem;
+    margin-left: 4rem;
+    padding: 1rem;
+    border-radius: 30px;
+    width:60rem;
+    
+}
+button{
+    background-color: red;
+    font-size: 1rem;
+    border-radius: 20px;
+    padding: 0.5rem;
+    box-shadow: 4px 4px 4px rgb(234, 0, 255);
+}
+li{
+    background-color: orange;
+    display: inline-block;
+    font-size: 2rem;
+    padding: 1rem;
+    margin: 2rem;
+    border-radius: 20px;
+}
+h1{
+    display: inline-block;
+    background-color: chartreuse;
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 35rem;
+    padding: 2rem;
+    box-shadow: 4px 6px 8px black;
+}
